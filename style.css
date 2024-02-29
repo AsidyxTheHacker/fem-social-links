@@ -21,7 +21,7 @@ body {
     border-radius: 20px;
     padding: 1em 3em;
     width: calc(15em + 3vw);
-    height: calc(35em + 3vh);
+    height: calc(35em + 2vh);
 }
 
 img {
@@ -34,7 +34,7 @@ img {
 }
 
 .location {
-    color: rgb(193, 240, 101);
+    color: rgb(188, 238, 86);
     font-weight: bold;
 }
 
@@ -58,7 +58,7 @@ li {
     background-color: rgb(52, 52, 52);
     border-radius: 10px;
     padding: 1em 3em;
-    min-width: 200px;
+    min-width: 210px;
     cursor: pointer;
     letter-spacing: .7px;
 }
@@ -69,6 +69,6 @@ li:active {
 
 a {
     font-weight: bold;
-    color: rgb(193, 240, 101);
+    color: rgb(188, 238, 86);
     text-decoration: none;
 }
